@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\git_exercise\WrapPanel\bin\Debug\WrapPanel.exe.config
+C:\Users\user\Desktop\git_exercise\WrapPanel\bin\Debug\WrapPanel.exe
+C:\Users\user\Desktop\git_exercise\WrapPanel\bin\Debug\WrapPanel.pdb
+C:\Users\user\Desktop\git_exercise\WrapPanel\obj\Debug\WrapPanel.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\git_exercise\WrapPanel\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\git_exercise\WrapPanel\obj\Debug\App.g.cs
+C:\Users\user\Desktop\git_exercise\WrapPanel\obj\Debug\WrapPanel_MarkupCompile.cache
+C:\Users\user\Desktop\git_exercise\WrapPanel\obj\Debug\WrapPanel_MarkupCompile.lref
+C:\Users\user\Desktop\git_exercise\WrapPanel\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\git_exercise\WrapPanel\obj\Debug\WrapPanel.g.resources
+C:\Users\user\Desktop\git_exercise\WrapPanel\obj\Debug\WrapPanel.Properties.Resources.resources
+C:\Users\user\Desktop\git_exercise\WrapPanel\obj\Debug\WrapPanel.csproj.GenerateResource.cache
+C:\Users\user\Desktop\git_exercise\WrapPanel\obj\Debug\WrapPanel.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\git_exercise\WrapPanel\obj\Debug\WrapPanel.exe
+C:\Users\user\Desktop\git_exercise\WrapPanel\obj\Debug\WrapPanel.pdb
